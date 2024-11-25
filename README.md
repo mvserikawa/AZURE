@@ -1,4 +1,5 @@
 Detecção de Fraudes em Documentos com Python e Azure AI
+
 Este projeto demonstra como usar Python e os serviços de inteligência artificial da Microsoft Azure para detectar fraudes em documentos. O sistema analisa dados estruturados e não estruturados em documentos, utilizando modelos de aprendizado de máquina para identificar possíveis inconsistências ou sinais de fraude.
 
 📝 Funcionalidades
